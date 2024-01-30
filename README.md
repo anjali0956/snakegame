@@ -1,0 +1,1 @@
+snake game that offers the player the functionality to move around and eat food in order to grow in size. When the snake hits the borders of the grid, or runs into itself the game stops. The high score is saved and the player can try to beat it in each try!
